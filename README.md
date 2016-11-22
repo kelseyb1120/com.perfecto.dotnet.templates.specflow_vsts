@@ -1,0 +1,1 @@
+# com.perfecto.dotnet.templates.specflow_vsts
